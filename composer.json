@@ -8,6 +8,7 @@
             "email": "azeemhassni@gmail.com"
         }
     ],
+     "minimum-stability" : "dev",
     "require-dev": {
         "phpspec/phpspec": "^2.2"
     },
