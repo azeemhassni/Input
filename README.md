@@ -10,4 +10,8 @@ $name = Input::post('name');
 $search = Input::get('search');
 
 $email = Input::request('email'); 
+
+if(Input::exists('email)){
+  // send an email to user
+}
 ```
