@@ -2,4 +2,4 @@ suites:
     app_suite:
         namespace: Azi
         psr4_prefix: Azi
-bootstrap: vendor\autoload.php
+bootstrap: vendor/autoload.php
